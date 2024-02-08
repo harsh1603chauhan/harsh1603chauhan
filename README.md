@@ -55,7 +55,7 @@ Here are some ideas to get you started:
  
 </div>
 
-My Email ID - kishansinghthakur27@gmail.com
+My Email ID - harshchauhan16032004@gmail.com
 ---
 ### 🔗 Social info
 

@@ -66,9 +66,10 @@ My Email ID - harshchauhan16032004@gmail.com
      <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.harshchauhan16032004@gmail.com"
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    
+      <a href="https://www.leetcode.com/_Harsh_16" target="blank">
     <a href="https://leetcode.com/_Harsh_16/" target="blank">
     <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="_Harsh_16" height="29" width="120" />
+    </a>
     </a>
     
 

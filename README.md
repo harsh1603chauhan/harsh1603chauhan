@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Second year student.
+- 👨‍💻 I'm a B-Tech CSE Final year student.
 
 - 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT** & focusing on **Java Datastructure**  
 
